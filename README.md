@@ -1,2 +1,2 @@
 
-this project is an about me website
+this project is a personal about me website
