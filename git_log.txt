@@ -1,0 +1,23 @@
+commit 528b2ba59eedc70b9ee0a6fcb6dec83cf73d30f1
+Author: freddymonty <fmontan9@calstatela.edu>
+Date:   Mon Feb 2 17:45:07 2026 -0800
+
+    added favorite movie
+
+commit 04d2c09e5e5b26e91082584930d549da0e54dfbd
+Author: freddymonty <fmontan9@calstatela.edu>
+Date:   Mon Feb 2 17:39:32 2026 -0800
+
+    added a readme
+
+commit 9d591df346645d7943bc9cdea315b1c7bf085fcb
+Author: freddymonty <fmontan9@calstatela.edu>
+Date:   Mon Feb 2 17:33:07 2026 -0800
+
+    editted index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
